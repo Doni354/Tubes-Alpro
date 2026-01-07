@@ -51,7 +51,7 @@ public class DataGlobal {
 
         tambahMenu("Nasi Goreng", 15000, 20);
         tambahMenu("Ayam Bakar", 20000, 15);
-        tambahMenu("Es Teh Manis", 50000, 50);
+        tambahMenu("Es Teh Manis", 5000, 50);
 
         paymentMethods[0] = "Bayar di Kasir"; paymentMethodCount++;
         paymentMethods[1] = "Transfer Bank"; paymentMethodCount++;
